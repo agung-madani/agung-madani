@@ -1,9 +1,9 @@
 # <p align=left> Hi, I'm Agung <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
 
-Hello and welcome to my GitHub profile! My fullname is Agung Rashif Madani, and I am an Informatics student with a passion for creating smart systems.
+Hello and welcome to my GitHub profile! My fullname is Agung Rashif Madani, and I am an Informatics student with a passionate in Smart Systems.
 
 During my studies, I have gained a diverse range of skills in programming languages such as Python, SQL, PHP, C++, Java, and Prolog, as well as in data management tools like Excel and Google Sheets.
-Currently, I am particularly focused on Machine Learning, and I am always seeking opportunities to improve my skills and learn about new technologies.
+I am always seeking opportunities to improve my skills and learn about new technologies.
 
 Thank you for visiting my profile, and I hope to connect with you in the near future!
 
