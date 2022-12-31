@@ -1,8 +1,9 @@
-Hello and welcome to my GitHub profile! My name is Agung Rashif Madani and I am an Informatics student with a passion for smart systems.
+Hello and welcome to my GitHub profile! My name is Agung Rashif Madani, and I am an Informatics student with a passion for creating smart systems.
 
-Throughout my studies, I have gained skills in various programming languages such as Python and SQL, as well as data management tools like Excel and Google Sheets. I am always looking to improve my skills and learn new technologies, and I am excited to be a part of the GitHub community to collaborate with other developers and contribute to open source projects.
+During my studies, I have gained a diverse range of skills in programming languages such as Python, SQL, PHP, C++, Java, and Prolog, as well as in data management tools like Excel and Google Sheets.
+Currently, I am particularly focused on Machine Learning, and I am always seeking opportunities to improve my skills and learn about new technologies.
 
-I am always looking for new opportunities to apply my skills and make a positive impact. Thank you for visiting my profile and I hope to connect with you soon!
+Thank you for visiting my profile, and I hope to connect with you in the near future!
 
 <!---
 agung-madani/agung-madani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
