@@ -1,4 +1,4 @@
-# <p align=left> Hi, I'm Agung <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
+# <p align=left> Hi everyone!
 
 Hello and welcome to my GitHub profile! My fullname is Agung Rashif Madani, and I am an Informatics student with a passionate in Smart Systems.
 
