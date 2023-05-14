@@ -2,7 +2,7 @@
 
 Hello and welcome to my GitHub profile! My fullname is Agung Rashif Madani, and I am an Informatics student with a passionate in Smart Systems.
 
-During my studies, I have gained a diverse range of skills in programming languages such as Python, SQL, PHP, Java, as well as in data management tools like Excel and Google Sheets.
+During my studies, I have gained a diverse range of skills in programming languages as well as in data management tools also in Design Graphic.
 I am always seeking opportunities to improve my skills and learn about new technologies.
 
 ### 🖥️ Hard Skills
