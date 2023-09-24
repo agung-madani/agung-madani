@@ -12,7 +12,7 @@ I am always seeking opportunities to improve my skills and learn about new techn
 ![agung-madani's GitHub stats](https://github-readme-stats.vercel.app/api?username=agung-madani&show_icons=true&theme=blueberry)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agung-madani&layout=compact&theme=blueberry)](https://github.com/agung-madani/github-readme-stats)
   
 ### 🌐 Contact me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agung_rashif/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/m-al-lail-qadrillah-55035625b](https://www.linkedin.com/in/agung-rashif-madani-905b75222/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agung_rashif/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/m-al-lail-qadrillah-55035625b](https://www.linkedin.com/in/agung-madani-905b75222/))
   
 Thank you for visiting my profile, and I hope to connect with you in the near future!
 
