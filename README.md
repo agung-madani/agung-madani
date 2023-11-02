@@ -14,7 +14,7 @@ I am always seeking opportunities to improve my skills and learn about new techn
   
 ### 🌐 Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agung_rashif/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/m-al-lail-qadrillah-55035625b](https://www.linkedin.com/in/agung-madani-905b75222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agung-madani-905b75222/)
   
 Thank you for visiting my profile, and I hope to connect with you in the near future!
 
