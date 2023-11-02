@@ -10,7 +10,7 @@ I am always seeking opportunities to improve my skills and learn about new techn
 
 ### 🐈 Github Stats
 <!--![agung-madani's GitHub stats](https://github-readme-stats.vercel.app/api?username=agung-madani&show_icons=true&theme=blueberry)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agung-madani&layout=compact&theme=blueberry)](https://github.com/agung-madani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agung-madani\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/agung-madani/github-readme-stats)
   
 ### 🌐 Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agung_rashif/)
