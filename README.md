@@ -3,8 +3,6 @@
 <h1 align="center"><p> Hi <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/></h1>
 <h3 align="center">Welcome to My Github Profile</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/agung-madani/my-portfolio](https://github.com/agung-madani/my-portfolio) last updated(Feb 16, 2024)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agung_rashif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agung-rashif-madani-905b75222/) 
 
