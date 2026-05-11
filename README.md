@@ -86,19 +86,11 @@ philosophy:
 
 ---
 
-## LANGUAGE DISTRIBUTION
+## ENGINEERING INSIGHTS
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agung-madani&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agung-madani&theme=tokyonight" />
-</p>
-
----
-
-## CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agung-madani/agung-madani/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
